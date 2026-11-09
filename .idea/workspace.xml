@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f7db689-adba-4f22-812d-0d9c51a99c3c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000014614485" />
+      <entry key="S10" value="1.0000633181405694" />
+      <entry key="S30" value="1.1183837916581665" />
+      <entry key="S60" value="1.8822446528602825" />
+      <entry key="M2" value="3.465739961090028" />
+      <entry key="M5" value="5.602915659054611" />
+      <entry key="M10" value="6.674566102186871" />
+      <entry key="M15" value="7.085435991464021" />
+      <entry key="M30" value="7.526497658736365" />
+      <entry key="H1" value="7.759046711840174" />
+      <entry key="H2" value="7.878453857432551" />
+      <entry key="H4" value="7.938957145061208" />
+      <entry key="D1" value="7.989788514634222" />
+      <entry key="W1" value="7.998540290991943" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.867612592791539E-119" />
+      <entry key="S2" value="2.4937949514722966E-30" />
+      <entry key="S5" value="1.4412665143082659E-12" />
+      <entry key="S10" value="1.2005275983117862E-6" />
+      <entry key="S30" value="0.010628142843826262" />
+      <entry key="S60" value="0.10309288454508518" />
+      <entry key="M2" value="0.3210808068774669" />
+      <entry key="M5" value="0.6348128924398877" />
+      <entry key="M10" value="0.7967514621510824" />
+      <entry key="M15" value="0.859439373407463" />
+      <entry key="M30" value="0.9270595306707454" />
+      <entry key="H1" value="0.962839306774887" />
+      <entry key="H2" value="0.9812437550246559" />
+      <entry key="H4" value="0.9905774856237424" />
+      <entry key="D1" value="0.9984233796560985" />
+      <entry key="W1" value="0.9997746161859411" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8179020585577811" />
+      <entry key="MS500" value="0.9605948639534766" />
+      <entry key="S2" value="0.9899997047180724" />
+      <entry key="S5" value="0.9959878182049859" />
+      <entry key="S10" value="0.9980551436736709" />
+      <entry key="S30" value="1.125735926348327" />
+      <entry key="S60" value="1.9729174260222928" />
+      <entry key="M2" value="3.7681489462152435" />
+      <entry key="M5" value="6.2231509499639435" />
+      <entry key="M10" value="7.462201212853492" />
+      <entry key="M15" value="7.938326748663504" />
+      <entry key="M30" value="8.450028984144021" />
+      <entry key="H1" value="8.720054774400245" />
+      <entry key="H2" value="8.858764726053394" />
+      <entry key="H4" value="8.929063810219947" />
+      <entry key="D1" value="8.988132811003302" />
+      <entry key="W1" value="8.998303594479108" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LsicocraPTvphjWZksRTiBqdYr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.assignment1.dart.executor": "Run",
+    "Dart Command Line App.q1.dart.executor": "Run",
+    "Dart Command Line App.q10.dart.executor": "Run",
+    "Dart Command Line App.q2.dart.executor": "Run",
+    "Dart Command Line App.q3.dart.executor": "Run",
+    "Dart Command Line App.q5.dart.executor": "Run",
+    "Dart Command Line App.q6.dart.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="q1.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/q1.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in assignment1" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <option name="filePath" value="$PROJECT_DIR$" />
+      <option name="scope" value="FOLDER" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f7db689-adba-4f22-812d-0d9c51a99c3c" name="Changes" comment="" />
+      <created>1794249259337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794249259337</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
